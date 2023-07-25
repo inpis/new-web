@@ -1,0 +1,68 @@
+.div14 {
+  position: relative;
+  line-height: 110%;
+  font-weight: 900;
+}
+.create-your-free {
+  margin: 0;
+}
+.create-your-free-container {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  line-height: 110%;
+}
+.title2 {
+  width: 14.44rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.building-ddfgan-enterprisedoes {
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 150.5%;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 23.31rem;
+}
+.content24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.div13 {
+  position: relative;
+  width: 23.31rem;
+  height: 15.38rem;
+}
+.connect-your-channels-container {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  line-height: 110%;
+  color: var(--color-darkslategray-200);
+}
+.div15 {
+  position: relative;
+  width: 23.31rem;
+  height: 15.38rem;
+  color: var(--color-mediumslateblue-200);
+}
+.div12 {
+  width: 48.5rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-mulish);
+}
